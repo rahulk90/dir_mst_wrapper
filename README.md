@@ -13,7 +13,9 @@ sets the relevant weights of the desired graph to be fininte.
 
 Setup:
 1) Please download the code from the website and place this directory in the folder.
+
 2) Point the LFLAGS and INCLUDES to the system boost installation you want to use
+
 3) (Optional) Set the -DDEBUG flag in DEBUG to see output
 
 Usage:
